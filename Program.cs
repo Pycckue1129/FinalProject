@@ -1,4 +1,4 @@
-﻿string[] array = {"hello", "21", "world", ":-)", "123", "124rsdfv"};
+﻿string[] array = {"hello", "21", "world", ":-)", "123", "124rsdfv", "computer science", "-2"};
 int lengthNewArray = 0;
 
 for (int i = 0; i < array.Length; i++)
